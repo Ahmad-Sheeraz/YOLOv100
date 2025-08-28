@@ -1,7 +1,7 @@
 # YOLOv100
 Real-time Object Detection, reimagined.
 
-# YOLOv100 — Real-time object detection, reimagined.
+# — The final nail in the coffin for outdated Object Detection.
 
 ![YOLOv100 Reimagined](assets/yolov100official.jpeg)
 
